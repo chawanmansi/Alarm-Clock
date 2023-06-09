@@ -26,4 +26,6 @@ Contributors to this open-source project are encouraged to add new features, imp
 2. Install the required dependencies using pip or any preferred package manager.
 3. Run the main Python script to launch the alarm clock application.
 4. Join us in creating a reliable and customizable alarm clock with Python. Wake up refreshed and start your day on time with the Python Alarm Clock project!
-![image](https://github.com/chawanmansi/Alarm-Clock/assets/97017390/343a97a6-210e-4893-8ea9-60dbf6fffebf)
+
+![image](https://github.com/chawanmansi/Alarm-Clock/assets/97017390/3b71fba2-adc0-4013-9e74-24dd18683bd7)
+
